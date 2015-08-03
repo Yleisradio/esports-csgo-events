@@ -1,0 +1,6 @@
+{
+ :env "prod"
+ :collector.port 8081
+ :collector.events.folder "/data"
+
+ }

@@ -1,0 +1,5 @@
+{
+ :env "test"
+ :collector.port          8081
+ :collector.events.folder "./"
+ }
