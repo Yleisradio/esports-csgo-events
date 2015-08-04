@@ -4,9 +4,7 @@
             [schema.core :as s]
             [clojure.tools.logging :as log]
             [csgo_events.server :as server]
-            [edn-config.core :refer [env]]
-
-            )
+            [edn-config.core :refer [env]])
   (:gen-class))
 
 
